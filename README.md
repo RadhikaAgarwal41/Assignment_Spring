@@ -1,9 +1,9 @@
 # Assignment_Spring
 
-Spring Tool Suite: CODE
+Spring Tool Suite: CODE 
 
 Postman: To create HTTP requests and validate that a specific API's response is correct.
 
-MongoDB: It provides flexible schema and makes it easy to evolve and store data.
+MongoDB: It provides flexible schema and makes it easy to retrieve and store the data.
 
 Spring Initializr: A Spring Boot project structure 'springs', with Web and MongoDB dependencies, was created.
